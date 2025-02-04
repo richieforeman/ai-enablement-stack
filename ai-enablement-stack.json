@@ -519,6 +519,14 @@
               "x": "@timescaledb"
             },
             {
+              "name": "Zep",
+              "description": "Zep is a memory layer for AI agents that continuously learns from user interactions and changing business data. Zep ensures that your Agent has a complete and holistic view of the user, enabling you to build more personalized and accurate user experiences.",
+              "logo": "./public/images/zep.svg",
+              "link": "https://www.getzep.com",
+              "github": "https://github.com/getzep",
+              "x": "@zep_ai"
+            },
+            {
               "name": "FalkorDB",
               "description": "FalkorDB provides a graph database platform optimized for AI applications, featuring GraphRAG technology for knowledge graph creation, sub-millisecond querying, and advanced relationship modeling, enabling more accurate and contextual LLM responses through graph-based data relationships.",
               "logo": "./public/images/falkordb.png",
