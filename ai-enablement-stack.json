@@ -557,7 +557,16 @@
               "link": "https://exa.ai/",
               "github": "https://github.com/exa-labs/",
               "x": "@ExaSearch"
-            }
+            },
+            {
+              "name": "Firebase",
+              "description": "Firebase Data Connect offers support for vector search and embeddings.  Firebase Data Connect provides a built in integration with Google Cloud Vertex to generate embeddings.",
+              "logo": "./public/images/firebase.svg",
+              "link": "https://firebase.google.com/docs/data-connect/solutions-vector-similarity-search",
+              "github": "",
+              "x": "@ExaSearch"
+            },
+            
           ]
         },
         {
