@@ -564,9 +564,8 @@
               "logo": "./public/images/firebase.svg",
               "link": "https://firebase.google.com/docs/data-connect/solutions-vector-similarity-search",
               "github": "",
-              "x": "@ExaSearch"
-            },
-            
+              "x": "@Firebase"
+            }
           ]
         },
         {
